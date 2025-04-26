@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 
 // Nathan. I wrote the base code and my group members added their parts. Each part is labeled.
